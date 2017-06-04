@@ -1,3 +1,7 @@
 this is a fake license
 create on dev line
+<<<<<<< HEAD
 create on master line after featurel line
+=======
+create on featurel line
+>>>>>>> featurel
