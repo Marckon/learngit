@@ -5,3 +5,4 @@ create on master line after featurel line
 =======
 create on featurel line
 >>>>>>> featurel
+with no fast mode
